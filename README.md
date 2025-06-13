@@ -1,16 +1,46 @@
 # 👋 Hello, I'm Rodrigo Moreira
 
-I'm a passionate **Tech Educator**, **Consultant**, and **Mentor** with over 20 years of experience empowering people to understand, apply, and thrive through technology.
+I'm a passionate **Tech Educator**, **Consultant**, and **Mentor** with over 20 years of experience empowering people through technology and practical education.
 
-My mission is to make tech education **practical**, **inclusive**, and **transformative**, focusing on:
+💼 I teach and develop content at institutions like **Jala University**, **UniFECAF**, among others — always blending theory and practice to create accessible and transformative learning experiences.
 
-- 🔐 **Cybersecurity** & Digital Risk Awareness  
-- 📊 **Data Analytics** using Python, SQL & Power BI  
-- 🤖 **Applied AI** for Education, Automation, and Productivity  
-- 🧠 **Curriculum Design** for Universities and Corporate Training  
+## 💡 What I Do
+- 🔐 **Cybersecurity & Information Protection**
+- 📊 **Data Analytics** with Python, SQL & Power BI
+- 🤖 **Applied AI** in Education and Automation
+- 🧠 **Curriculum Design** for Higher Ed & Corporate Training
+- 🎓 **Mentoring** for career transitions and tech upskilling
 
-💼 I currently teach and create content for institutions like **Jala University**, **UniFECAF**, and **others**, always blending theory with real-world application to simplify complex topics and drive real impact.
+## 📌 Featured Projects (soon)
+- `data-analytics-roadmap`
+- `cybersecurity-labs`
+- `python-automation-toolkit`
+- `AI-in-education-playbook`
 
-🚀 Whether through open repositories, practical workshops, or personalized mentoring, I aim to create learning experiences that **connect with people's lives** and help them grow with confidence.
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/rodrigomoreiradossantos)
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rodrigomoreiradossantos) — I'm always open to new ideas, collaborations, and conversations that spark change.
+---
+
+# 👋 Olá, eu sou o Rodrigo Moreira
+
+Sou **educador em tecnologia**, **consultor** e **mentor** com mais de 20 anos de experiência ajudando pessoas a aprenderem e aplicarem tecnologia de forma prática e significativa.
+
+💼 Leciono e produzo conteúdos em instituições como **Jala University**, **UniFECAF**, entre outras — sempre unindo teoria e prática para tornar o aprendizado mais acessível e transformador.
+
+## 💡 O que eu faço
+- 🔐 **Cibersegurança e Proteção da Informação**
+- 📊 **Análise de Dados** com Python, SQL e Power BI
+- 🤖 **IA Aplicada** à Educação e Automação
+- 🧠 **Design de Currículos** para Educação Superior e Treinamentos
+- 🎓 **Mentoria** para transição de carreira e crescimento em tecnologia
+
+## 📌 Projetos em destaque (em breve)
+- `roteiro-analise-dados`
+- `laboratorios-ciberseguranca`
+- `automacoes-em-python`
+- `inteligencia-artificial-na-educacao`
+
+📫 Vamos nos conectar pelo [LinkedIn](https://www.linkedin.com/in/rodrigomoreiradossantos)
+
+---
+

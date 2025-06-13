@@ -1,16 +1,16 @@
 # 👋 Hello, I'm Rodrigo Moreira
 
-I'm a passionate **Tech Educator**, **Consultant**, and **Mentor** with over 20 years of experience helping people learn and apply technology in real and impactful ways.
+I'm a passionate **Tech Educator**, **Consultant**, and **Mentor** with over 20 years of experience empowering people to understand, apply, and thrive through technology.
 
-My work is focused on creating accessible and practical learning journeys across:
+My mission is to make tech education **practical**, **inclusive**, and **transformative**, focusing on:
 
 - 🔐 **Cybersecurity** & Digital Risk Awareness  
-- 📊 **Data Analytics** with Python, SQL & Power BI  
-- 🤖 **Applied Artificial Intelligence** in Education and Automation  
-- 🧠 **Curriculum Design** for Higher Education and Corporate Training  
+- 📊 **Data Analytics** using Python, SQL & Power BI  
+- 🤖 **Applied AI** for Education, Automation, and Productivity  
+- 🧠 **Curriculum Design** for Universities and Corporate Training  
 
-💼 I currently teach and design content at institutions such as **Jala University**, **UniFECAF**, and **among other institutions**, always combining theory with hands-on practice, making technology simpler and more useful for real-world challenges.
+💼 I currently teach and create content for institutions like **Jala University**, **UniFECAF**, and **others**, always blending theory with real-world application to simplify complex topics and drive real impact.
 
-🚀 I'm building educational repositories, sharing best practices, and supporting learners through public workshops and mentorship programs.
+🚀 Whether through open repositories, practical workshops, or personalized mentoring, I aim to create learning experiences that **connect with people's lives** and help them grow with confidence.
 
-📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/rodrigomoreiradossantos) and explore how we can create learning experiences that truly make a difference.
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rodrigomoreiradossantos) — I'm always open to new ideas, collaborations, and conversations that spark change.

@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello, I'm Rodrigo Moreira
 
-<!--
-**RodHeisenberg/RodHeisenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Tech Educator**, **Consultant**, and **Mentor** with over 20 years of experience helping people learn and apply technology in real and impactful ways.
 
-Here are some ideas to get you started:
+My work is focused on creating accessible and practical learning journeys across:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 **Cybersecurity** & Digital Risk Awareness  
+- 📊 **Data Analytics** with Python, SQL & Power BI  
+- 🤖 **Applied Artificial Intelligence** in Education and Automation  
+- 🧠 **Curriculum Design** for Higher Education and Corporate Training  
+
+💼 I currently teach and design content at institutions such as **Jala University**, **UniFECAF**, and **among other institutions**, always combining theory with hands-on practice, making technology simpler and more useful for real-world challenges.
+
+🚀 I'm building educational repositories, sharing best practices, and supporting learners through public workshops and mentorship programs.
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/rodrigomoreiradossantos) and explore how we can create learning experiences that truly make a difference.

@@ -32,7 +32,7 @@ Sou **educador em tecnologia**, **consultor** e **mentor** com mais de 20 anos d
 - 📊 **Análise de Dados** com Python, SQL e Power BI
 - 🤖 **IA Aplicada** à Educação e Automação
 - 🧠 **Design de Currículos** para Educação Superior e Treinamentos
-- 🎓 **Mentoria** para transição de carreira e crescimento em tecnologia
+- 🎓 **Mentoria** para empresas e executivos 
 
 ## 📌 Projetos em destaque (em breve)
 - `roteiro-analise-dados`

@@ -9,7 +9,7 @@ I'm a passionate **Tech Educator**, **Consultant**, and **Mentor** with over 20 
 - 📊 **Data Analytics** with Python, SQL & Power BI
 - 🤖 **Applied AI** in Education and Automation
 - 🧠 **Curriculum Design** for Higher Ed & Corporate Training
-- 🎓 **Mentoring** for career transitions and tech upskilling
+- 🎓 **Mentoring** for companies and executives
 
 ## 📌 Featured Projects (soon)
 - `data-analytics-roadmap`
